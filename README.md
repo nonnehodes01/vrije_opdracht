@@ -27,7 +27,9 @@ train_model("pad/naar/waar/getraind/model/moet/kom")
 - Nadat de training is voltooid, wordt het model opgeslagen als een .h5-bestand en is het klaar voor latere classificatie.
 
 __Licentie__
+
 Dit project is gelicentieerd onder de MIT-licentie.
 
 __Contact__
+
 Voor de dataset en/of het getrainde model kunt u contact opnemen met [nonne.hodes@gmail.com].
